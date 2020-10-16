@@ -1,2 +1,2 @@
 # need
-This is just sample thefinding.xyz
+This is just sample www.thefinding.xyz
